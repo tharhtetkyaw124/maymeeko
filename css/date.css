@@ -1,8 +1,8 @@
 body {
   text-align: center;
   margin-top: 30px;
-  font-family: "Courier";
-  background-color: #fff5e4;
+  font-family: 'Courier';
+  background-color: #2be5cc;
   color: #ff9494;
   display: flex;
   flex-direction: column;
@@ -31,7 +31,7 @@ form .header {
   font-size: 15px;
   cursor: pointer;
   margin: 10px;
-  font-family: "courier";
+  font-family: 'courier';
   margin-bottom: 10px;
   background-color: #ffe3e1;
   color: #e67373;
@@ -46,12 +46,12 @@ form .header {
   border: 2px solid #ff9494;
 }
 
-input[type="date"] {
+input[type='date'] {
   padding: 6px 10px;
   font-size: 15px;
   cursor: pointer;
   margin: 10px;
-  font-family: "courier";
+  font-family: 'courier';
   margin-bottom: 10px;
   background-color: #ffe3e1;
   color: #e67373;

@@ -2,7 +2,7 @@ body {
   text-align: center;
   margin-top: 30px;
   font-family: 'Courier';
-  background-color: #fff5e4;
+  background-color: #2be5cc;
   color: #ff9494;
 }
 
@@ -36,4 +36,19 @@ img {
   color: #ffe3e1;
   border: 2px solid #ff9494;
   box-shadow: 1px 1px 2px #ffe3e1;
+}
+
+.custom-link {
+  background-color: #4a90e2; /* Change the color as you like */
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 20px; /* Change the font size as you like */
+  font-weight: bold;
+  padding: 10px;
+  border: 2px solid #4a90e2; /* Change the border color as you like */
+  border-radius: 5px;
+}
+.custom-link:hover {
+  background-color: #4a90e2; /* Change the hover color as you like */
+  color: white;
 }
